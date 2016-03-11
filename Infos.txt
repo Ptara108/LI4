@@ -1,0 +1,35 @@
+Entregas:
+
+1ª Fase -> Entrega 18/03/2016 -> Apresentação 28/03/2016
+2ª Fase -> Entrega 06/05/2016 -> Apresentação 09/05/2016
+3ª Fase -> Entrega 09/06/2016 -> Apresentação 13/06/2016
+
+------------------------------------------------------------------------------------------------------------------
+
+Tarefas:
+
+Página Web:
+- 
+- 
+- 
+
+Aplicação Mobile:
+-
+-
+-
+
+------------------------------------------------------------------------------------------------------------------
+
+Relatório:
+
+- Contextualização
+- Motivação (motivo pelo qual vamos fazer um assistente de campo)
+- Objectivos (Funcionalidades)
+- Maquetas/Mockups (de forma a explicar a arquitectura, com a voz é gravada, possível diagrama de actividade)
+- Gestão/Organização do Projecto (Diagrama de Gantt - Divisão de tarefas pelos elementos do grupo, tempo estimado para cada tarefa, etc)
+- Estrutura do Relatório
+- Análise de Requisitos
+- ...
+- Trabalho Feito (o que está ou não em concordância com o que foi planeado na 1ª etapa)
+
+Para a primeira fase o relatório é só os primeiros 5 pontos.
